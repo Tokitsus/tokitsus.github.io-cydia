@@ -1,0 +1,24 @@
+<package>
+	<id>com.imgur.imgur</id>
+	<name>Imgur</name>
+	<version>1.0.0-1</version>
+	<compatibility>
+		<firmware>
+		    <miniOS>5.1.1</miniOS>
+			<maxiOS>6.1.6</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Imgur fully working, no aditional tweaks required.</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
